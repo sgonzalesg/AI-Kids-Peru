@@ -1,0 +1,21 @@
+# Entorno Virtual (Pesa demasiado y se genera localmente)
+.venv/
+venv/
+ENV/
+
+# Variables de entorno y credenciales (¡Seguridad Crítica!)
+.env
+
+# Archivos temporales de Jupyter Notebooks (Como el que tienes en tu proyecto)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Archivos temporales y caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Carpetas de configuración del editor (Opcional, por si usas VS Code)
+.vscode/
