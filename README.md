@@ -23,7 +23,7 @@ Los proyectos de monitoreo ambiental escolar y ciencia ciudadana suelen enfrenta
 
 ---
 
-## 🗺️ Arquitectura del Sistema Bot de Discord
+##  Arquitectura del Sistema Bot de Discord
 
 ```text
   [ Alumno en Discord ] 
@@ -53,4 +53,4 @@ Los proyectos de monitoreo ambiental escolar y ciencia ciudadana suelen enfrenta
                                  │
                                  ▼ 
   [ Veredicto Embed Estético ] ──┴──► [ Payload Listo para Contrato Web3 ]
-
+```
